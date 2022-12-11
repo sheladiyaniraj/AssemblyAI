@@ -96,7 +96,7 @@ export default function Home() {
                 <Input
                   name="what"
                   type="text"
-                  placeholder="@nirajsheladiya"
+                  placeholder="she is Java developer and she is 5.5 feet tall"
                   value={questionInput} onChange={(e) => setquestionInput(e.target.value)} />
               </FormControl>
 
@@ -152,7 +152,7 @@ export default function Home() {
             <Stack pt={6}>
 
               <Text align={'center'}>
-                Already a user? <Link color={'blue.400'}>Login</Link>
+                 Build for Assembly AI Hackathon🤞🤞 <Link color={'blue.400'}> Niraj Sheladiya</Link>
               </Text>
               <div> <h5>{heading}</h5></div>
 
