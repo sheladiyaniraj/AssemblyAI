@@ -77,6 +77,10 @@ export default function Home() {
           <Text fontSize={'lg'} color={'gray.600'}>
             use AI to roast your ex-girlfriends ✌️
           </Text>
+
+          <Text fontSize={'lg'} color={'gray.600'}>
+            use AI to roast your ex-girlfriends ✌️
+          </Text>
         </Stack>
 
 
